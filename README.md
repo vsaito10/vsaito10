@@ -1,6 +1,6 @@
 ### Bem-vindo ao meu perfil 👋
 
-Meu nome é Vitor Saito e trabalho no mercado financeiro focado nos temas de ações, derivativos e macroeconomia. 
+Meu nome é Vitor Saito e trabalho no mercado financeiro focado nos temas de ações e derivativos. 
 
 - 🌱 Atualmente estou aprendendo Python e AWS.
 - 📫 Contato: vitorsaito95@gmail.com
